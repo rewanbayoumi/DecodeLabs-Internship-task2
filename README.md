@@ -61,5 +61,5 @@ This project provided practical experience in deploying web applications on clou
 
 ## Author
 
-**Rewan Elbayoumi**
+**Rewan Ahmed Elbayoumi**
 Computer Science & Artificial Intelligence Student
